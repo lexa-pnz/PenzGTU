@@ -1,0 +1,7 @@
+C:\MyNewProjects\C#\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\MyNewProjects\C#\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\MyNewProjects\C#\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\MyNewProjects\C#\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\MyNewProjects\C#\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\MyNewProjects\C#\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\MyNewProjects\C#\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

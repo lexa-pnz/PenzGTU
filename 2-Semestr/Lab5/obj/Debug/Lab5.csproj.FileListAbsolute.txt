@@ -1,0 +1,7 @@
+C:\MyNewProjects\C#\2semestr\Lab5\bin\Debug\Lab5.exe.config
+C:\MyNewProjects\C#\2semestr\Lab5\bin\Debug\Lab5.exe
+C:\MyNewProjects\C#\2semestr\Lab5\bin\Debug\Lab5.pdb
+C:\MyNewProjects\C#\2semestr\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\MyNewProjects\C#\2semestr\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\MyNewProjects\C#\2semestr\Lab5\obj\Debug\Lab5.exe
+C:\MyNewProjects\C#\2semestr\Lab5\obj\Debug\Lab5.pdb
