@@ -11,7 +11,7 @@ namespace Lab3
         int x;
         int y;
         char sym;
-
+        
         public void SetX(int x)
         {
             if (x >= 0)
@@ -42,6 +42,7 @@ namespace Lab3
         static void Main(string[] args)
         {
             Point p = new Point();
+
             p.SetX(0);
             p.SetY(0);
             p.SetSym('*');
