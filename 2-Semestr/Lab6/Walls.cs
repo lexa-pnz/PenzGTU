@@ -25,7 +25,7 @@ namespace Lab6
             wallList.Add(rightLine);
         }
 
-        public bool IsHit(Figure figure)
+        /*public bool IsHit(Figure figure)
         {
             foreach (var wall in wallList)
             {
@@ -35,7 +35,7 @@ namespace Lab6
                 }
             }
             return false;
-        }
+        }*/
 
         public void Draw()
         {

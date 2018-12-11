@@ -32,10 +32,10 @@ namespace Lab6
             Console.Write(sym);
         }
 
-        public bool IsHit(Point p)
+        /*public bool IsHit(Point p)
         {
             return p.x == this.x && p.y == this.y;
-        }
+        }*/
 
     }
 
@@ -52,7 +52,7 @@ namespace Lab6
             }
         }
 
-        public bool IsHit(Figure figure)
+        /*public bool IsHit(Figure figure)
         {
             foreach (var p in pList)
             {
@@ -60,9 +60,9 @@ namespace Lab6
                     return true;
             }
             return false;
-        }
+        }*/
 
-        private bool IsHit(Point point)
+        /*private bool IsHit(Point point)
         {
             foreach (var p in pList)
             {
@@ -70,7 +70,7 @@ namespace Lab6
                     return true;
             }
             return false;
-        }
+        }*/
 
     }
 
